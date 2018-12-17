@@ -7,7 +7,7 @@ Nunc vehicula massa non ultricies pharetra. Donec et magna magna. Orci varius na
 Quisque id lobortis quam. Nullam interdum dapibus urna, nec posuere dui tincidunt sit amet. Donec et congue purus, vel interdum lectus. 
 Mauris ac odio vehicula, fringilla sem eu, dictum erat. Mauris nec dignissim ipsum. Sed fermentum, mi elementum blandit luctus, nunc leo auctor mauris, in congue odio ante sed lacus. 
 Suspendisse dictum quis ipsum vitae gravida. 
-*Mama
-*Papa
-*Oma
-*Opa
+* Mama
+* Papa
+* Oma
+* Opa
